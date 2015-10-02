@@ -1,10 +1,10 @@
 username: sunxiaobiu
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title:  春风化雨
+description: 当你启程，前往伊萨卡，但愿你的道路漫长，充满奇迹，充满发现
 theme: midnight
 disqusname: minixalpha
 
